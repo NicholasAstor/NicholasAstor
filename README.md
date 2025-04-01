@@ -19,7 +19,7 @@
 <h3 align = "right">
 Desenvolvedor backend em busca do Fullstack😅 <h3/>
 <h3 align = "right"> 🌐 Atualmente trabalhando com Django e Relational DB's<br><br>
-                     🌱 Estudando sobre <b>Spring Boot</b> e <b>Dart</b><br><br>
+                     🌱 Estudando sobre <b>Spring Boot</b> e <b>AWS</b><br><br>
                      🏀 Jogo Basquete e amo jogos online<br><br>
                      ☕ <b>Apreciador</b> de um bom café<br><br>
                     </h3>
